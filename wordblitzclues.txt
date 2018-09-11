@@ -1,0 +1,18 @@
+univerity	Queen's
+restaurant	Boston Pizza
+city		Kingston
+country		Canada
+news channel	CNN
+politician	Hillary Clinton
+province	British Columbia
+occupation	Professor
+subject		Computer Science
+animal		wolf
+country		United States
+transport	airplane
+subject		mathematics
+city		Vancouver
+animal		dog
+animal		cat
+restaurant	McDonalds
+beverage	coffee
